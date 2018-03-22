@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BLJukebox</string>
+    <string name="action_settings">Settings</string>
+    <string name="ex">example</string>
+    <string name="alert">Alert!</string>
+    <string name="add_new_device">New device</string>
+    <string name="no_paired_device_alert">You don\'t have paired devices!\nDo you want to go Bluetooth setting and pairing new device?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
